@@ -1,0 +1,38 @@
+<head>
+     
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Cache-Control" content="no-transform " /> <meta name="description" content="携程机票官网提供飞机票查询,机票预订和特价机票查询,打折机票查询服务。携程同时动态提供航班查询,时刻表查询,机票查询时刻表票价,实时起降查询,以东方航空,中国南方航空,中国国航,深圳航空,厦门航空,海南航空,四川航空,春秋航空官方网站特价机票查询,是您网上订机票的首选。" /><meta name="keywords" content="机票,机票预订,机票查询,飞机票,飞机票查询,特价机票,打折机票,订机票,网上订票,机票价格查询,特价机票查询,飞机票价查询" /><title>【携程机票】飞机票查询,机票预订,机票价格查询,打折特价机票</title>
+        
+    
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <link rel="dns-prefetch" href="//webresource.c-ctrip.com" />
+    <link rel="dns-prefetch" href="//pic.c-ctrip.com" />
+    <link rel="dns-prefetch" href="//images3.c-ctrip.com" />
+    <link rel="dns-prefetch" href="//crm.ws.ctrip.com" />
+    <link rel="dns-prefetch" href="//s.c-ctrip.com" />
+    <link rel="dns-prefetch" href="//www.google-analytics.com" />
+    
+     <link href="//webresource.c-ctrip.com/ResFlightOnline/R3/Booking/css/fltdomestic111027/private_index.css?ReleaseNo=CR_2019_01_23_21_00_00" type="text/css" rel="stylesheet" />
+          
+<!--[if lt IE 9]>
+<script type="text/javascript">
+    if(screen.width <= 1250) {
+        window.attachEvent('onload',function(){
+            var link = document.createElement('link');
+				link.rel = "stylesheet";
+				link.type="text/css";
+				link.href="//webresource.c-ctrip.com/styles/fltdomestic111027/private_index_add.css?ReleaseNo=CR2019_03_06_18_31_01";
+                var head = (document.head || document.getElementsByTagName('head')[0])
+                head.insertBefore(link,head.lastChild);
+        });
+    }
+</script>
+<![endif]-->
+<style type="text/css" media="all">
+.calendar .calendarThPadding{ padding-top:0px; padding-bottom:0px;}
+.inputSel{color:#666;}
+
+.address_list_nearby {color:#333;}
+</style>
+
+</head>
